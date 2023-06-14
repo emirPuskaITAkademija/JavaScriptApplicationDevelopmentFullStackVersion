@@ -1,0 +1,4 @@
+Zadaća
+Nakon što ste se uspješno logovali umjesto alert poziva metoda jednostavno
+prebacite se na dashboard ili sadržaj koji će vas dočekati nakon uspješnog logovanja
+u aplikaciju.
